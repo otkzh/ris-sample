@@ -1,2 +1,0 @@
-# ris-sample
-# gIThUb
